@@ -1,0 +1,7 @@
+Functional Interface in Java 8 
+---------------------------------
+
+1. Predicate --> Input => Anything Output => Boolean 
+2. Consumer  --> Input => Anything Output => Nothing 
+3. Function  --> Input => Anything Output => Anything
+4. Supplier  --> Input => Nothing Output => Anything
